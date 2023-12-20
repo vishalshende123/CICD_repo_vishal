@@ -1,0 +1,15 @@
+﻿--Example for Scalar Function
+CREATE FUNCTION Fn_GetCustBalance 
+(
+	@ACID INT
+)
+RETURNS MONEY
+AS
+BEGIN
+	DECLARE @BAL  MONEY
+	
+		SELECT @BAL = CBAL
+		FROM dbo.AMASTER
+		WHERE ACID = @ACID 
+	RETURN @BAL
+END

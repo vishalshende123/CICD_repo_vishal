@@ -1,0 +1,10 @@
+20-12-2023 10:45:07	This log contains information about the import schema operation into project 'CICD_DB' on computer 'DESKTOP-2LDJJMQ' by user 'LENOVO'.
+20-12-2023 10:45:08	Deserializing model
+20-12-2023 10:45:10	Resolving model
+20-12-2023 10:45:11	Visiting imported model for types
+20-12-2023 10:45:12	Scanning project for duplicate elements
+20-12-2023 10:45:12	Finished duplicate element processing
+20-12-2023 10:45:15	Processing extra files
+20-12-2023 10:45:15	Finished importing Data-tier Application file.
+20-12-2023 10:45:15	A summary of the import was saved to the following location: C:\Users\LENOVO\source\repos\CICD_DB\Import Schema Logs\CICD_DB_20231220051507.log
+20-12-2023 10:45:15	Click Finish to continue...

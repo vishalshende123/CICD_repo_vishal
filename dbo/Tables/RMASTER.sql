@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[RMASTER] (
+    [RID]   INT      NOT NULL,
+    [RNAME] CHAR (6) NOT NULL,
+    PRIMARY KEY CLUSTERED ([RID] ASC)
+);
+
